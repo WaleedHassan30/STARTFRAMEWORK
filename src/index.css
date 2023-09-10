@@ -1,0 +1,20 @@
+@import url(./Components/Components/Navbar/Navbar.css);
+/* Theme Variables */
+:root{
+  --main-Color: #1abc9c;
+  --second-color: #2c3e50;
+  --white:white;
+  --dark:black;
+  --hover: #1abc9ce6;
+  --copy: #1a252f;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  
+  
+}
+
+

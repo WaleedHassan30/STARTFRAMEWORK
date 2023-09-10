@@ -1,0 +1,19 @@
+.start{
+    background-color: var(--main-Color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+
+.start  img{
+    width: 265px;
+    object-fit: cover;
+}
+
+.start p{
+    color: white;
+    font-size: 18px;
+}

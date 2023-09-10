@@ -1,0 +1,41 @@
+.form{
+    width: 800px;
+    text-align: start;
+    padding-bottom: 100px;
+}
+
+input.form-control:focus{
+    box-shadow: none;
+}
+
+
+input:focus-visible {
+
+    outline-offset: 0px;
+}
+
+label{
+    color: var(--main-Color);
+    transition: .6s top;
+    margin-left: 10px;
+    top: 50px;
+    
+}
+
+
+.top-0{
+    top: 0px!important;   
+}
+
+
+.form button{
+    background-color: var(--main-Color);
+}
+
+button{
+    margin-left: 10px;
+}
+
+button:hover{
+    background-color: var(--main-Color) !important;
+}

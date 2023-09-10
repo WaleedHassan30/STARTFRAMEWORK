@@ -1,0 +1,23 @@
+.about{
+    background-color: var(--main-Color);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: left;
+    gap: 50px;
+    margin-top: 20px;
+
+}
+
+.content p{
+    color: var(--white);
+}
+
